@@ -6,7 +6,7 @@ INSTALL_DIR = /software/dedisp
 CUDA_DIR   = $(CUDA_PATH)
 THRUST_DIR = $(CUDA_DIR)/include
 
-GPU_ARCH   ?= sm_30
+GPU_ARCH   = sm_52
 
 LIB_ARCH   = lib64
 
