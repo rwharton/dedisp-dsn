@@ -1,7 +1,7 @@
 # The definitions in this file should be changed to match your system
 
 CUDA_PATH   = /usr/local/cuda
-INSTALL_DIR = /software/dedisp
+INSTALL_DIR = /home/psr/software
 
 CUDA_DIR   = $(CUDA_PATH)
 THRUST_DIR = $(CUDA_DIR)/include
